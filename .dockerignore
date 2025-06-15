@@ -1,0 +1,36 @@
+# Node modules and dependencies
+node_modules
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Git and version control
+.git
+.gitignore
+
+# Development and environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build and test directories
+/coverage
+/dist
+/build
+
+# Docker files (optional, depending on your setup)
+# Dockerfile
+# docker-compose.yml
+# .dockerignore
